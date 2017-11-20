@@ -3,6 +3,7 @@
 For search.java –
 a. query1: “computer science”, and name it query1.out
 b. query2: “data analysis”, and name it query2.out
+
 NOTE for the users of these programs: Prior to running each program make sure the correct input path is given for the program and the output path folder is not already present in the hdfs. If present please remove it and its contents with same names.
 Instructions:
 • Place the DocWordCount.java, TermFrequency.java, TFIDF.java, Search.java and Rank.java in one folder.
